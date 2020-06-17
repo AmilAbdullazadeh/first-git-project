@@ -1,0 +1,25 @@
+body {
+  margin-top: 10px;
+}
+
+body #main-section {
+  margin-top: 10px;
+}
+
+body #main-section .top-div {
+  margin-top: 20px;
+}
+
+body #main-section .top-div h1 {
+  font-size: 28px;
+  font-weight: 400;
+}
+
+body #main-section .mid-div {
+  margin-top: 10px;
+}
+
+body #main-section .footer-div {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=style.css.map */
